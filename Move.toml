@@ -1,0 +1,6 @@
+[package]
+name = "escrow"
+edition = "2024"
+
+[addresses]
+escrow = "0x0"
